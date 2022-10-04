@@ -36,6 +36,8 @@ GitHub account
 
 ## Live link
 
+Click me [here](https://faithnjoki.github.io/My-Tasks-reminder/))
+
 ## Support and contact details
 
 For any remarks, questions or recommendations, feel free to contact me using the details below:
