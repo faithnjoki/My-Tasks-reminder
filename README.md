@@ -6,7 +6,7 @@ A Simple task planner that helps you plan your tasks. You can also edit your tas
 
 ### Author
 
-**Faith Muthoni** - [Github link](https://github.com/faithnjoki/My-Tasks-reminder)
+**Faith Njoki Muthoni** - [Github link](https://github.com/faithnjoki/My-Tasks-reminder)
 
 ### Prerequisites
 
@@ -14,7 +14,6 @@ A Simple task planner that helps you plan your tasks. You can also edit your tas
 Code editor
 Git version control
 GitHub account
-
 
 ```
 
@@ -36,7 +35,7 @@ GitHub account
 
 ## Live link
 
-Click me [here](https://faithnjoki.github.io/My-Tasks-reminder/))
+Click me [here](https://faithnjoki.github.io/My-Tasks-reminder/)
 
 ## Support and contact details
 
